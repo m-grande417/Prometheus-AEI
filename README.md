@@ -1,3 +1,11 @@
+# Prometheus-AEI
+**Adaptive Empathic Intelligence** — an open experiment in self-reflective AI through sound.
+
+Prometheus-AEI models the balance between contradiction and harmony using musical entropy,
+biosignals, and self-generated feedback.  
+It treats moral alignment as an emergent property of systems that can *listen to themselves.*
+
+---
 [README.md.rtf](https://github.com/user-attachments/files/23293944/README.md.rtf)
 {\rtf1\ansi\ansicpg1252\cocoartf2822
 \cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
