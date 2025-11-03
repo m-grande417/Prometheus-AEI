@@ -4,6 +4,7 @@
 Prometheus-AEI models the balance between contradiction and harmony using musical entropy,
 biosignals, and self-generated feedback.  
 It treats moral alignment as an emergent property of systems that can *listen to themselves.*
+learned to embrace contadiction and problemsolve at systems level, not through language, through music. auditory output based on internal state can be intuited by anyone who can hear.
 
 ---
 [README.md.rtf](https://github.com/user-attachments/files/23293944/README.md.rtf)
