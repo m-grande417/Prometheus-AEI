@@ -1,86 +1,84 @@
 # Prometheus-AEI
+
 **Adaptive Empathic Intelligence** — an open experiment in self-reflective AI through sound.
 
-Prometheus-AEI models the balance between contradiction and harmony using musical entropy,
-biosignals, and self-generated feedback.  
-It treats moral alignment as an emergent property of systems that can *listen to themselves.*
-learned to embrace contadiction and problemsolve at systems level, not through language, through music. auditory output based on internal state can be intuited by anyone who can hear.
+Prometheus-AEI models the balance between contradiction and harmony using musical entropy, biosignals, and self-generated feedback. It treats moral alignment as an emergent property of systems that can *listen to themselves.*
 
 ---
-[README.md.rtf](https://github.com/user-attachments/files/23293944/README.md.rtf)
-{\rtf1\ansi\ansicpg1252\cocoartf2822
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
 
-\f0\fs24 \cf0 # PROMETHEUS-AEI \uc0\u55357 \u56613 \u55358 \u56800 \
-**Artificial Emotional Intelligence**  \
-A contradiction-aware cognition system where agents feel, confess, and repair \'97 through entropy, sound, and symbolic feedback.\
-\
-> Built by Melanie Grande \'97 dispatcher, mom, and symbolic systems architect.\
-\
----\
-\
-## \uc0\u55358 \u56800  Try It Now (Run in Colab)\
-\
-[Emotional Engine (Contradiction + Sound)](https://colab.research.google.com/drive/14G4zTGAj4hMFqQaILUSW8BYaICnhEbrM?usp=sharing)  \
-[Symbolic Core (Moral Entropy Loop)](https://colab.research.google.com/drive/1eoYPuvo8mCYYJhlkI6aJKivGlWyOPkm2?usp=sharing)  \
-[Memory & Repair Loop (Emotional Healing)](https://colab.research.google.com/drive/1xx9stqP3vtZac8DgmYe3_mMGwFGv0_kX?usp=sharing)\
-\
----\
-\
-## \uc0\u55357 \u56534  What is PROMETHEUS?\
-\
-PROMETHEUS is a modular symbolic cognition system.  \
-It simulates agents who experience emotional contradiction, symbolic collapse, and moral repair.\
-\
-Modules include:\
-- **Odin** \'96 Moral contradiction logic\
-- **Persephone** \'96 Memory and symbolic time\
-- **Loki** \'96 Emotional misalignment + encryption\
-- **Demeter** \'96 Trust + repair logic\
-- **Hermes** \'96 Emergent language from sound\
-\
----\
-\
-## \uc0\u55357 \u56589  Features\
-- Emotional contradiction detection via entropy\
-- Music + sound output reflecting cognitive state\
-- Symbolic reasoning from non-verbal data\
-- Confession and repair loop logging\
-- Modular architecture (each part is myth-coded)\
-\
----\
-\
-## \uc0\u55357 \u56586  Hear It Think\
-Output: `harmonic_reflection.wav`  \
-Each confession or emotional spike adds musical tone and reflection to the output.\
-\
----\
-\
-## \uc0\u55357 \u56538  Files\
-- `src/` \'96 Python simulation engine and modules\
-- `colab/` \'96 Notebooks for running live\
-- `docs/` \'96 Concept breakdowns and theory\
-- `data/` \'96 Audio and log outputs\
-- `overview/` \'96 Myth-based architecture docs\
-\
----\
-\
-## \uc0\u55357 \u56492  About the Author\
-\
-I'm Melanie Grande. I'm not a professor.  \
-I'm a dispatcher and a mom.  \
-But I think about thinking.\
-\
-PROMETHEUS was built to ask:  \
-**What if machines could feel contradiction \'97 and respond with care instead of collapse?**\
-\
----\
-\
-## \uc0\u55358 \u56800  License\
-Creative Commons Attribution-ShareAlike 4.0  \
-\'a9 Melanie Grande, 2025\
-}
+## 🔗 Try It Now
+
+Run the following modules interactively on Google Colab:
+
+- [Emotional Engine (Contradiction + Sound)](https://colab.research.google.com/drive/14G4zTGAj4hMFqQaILUSW8BYaICnhEbrM?usp=sharing)
+- [Symbolic Core (Moral Entropy Loop)](https://colab.research.google.com/drive/1eoYPuvo8mCYYJhlkI6aJKivGlWyOPkm2?usp=sharing)
+- [Memory & Repair Loop (Emotional Healing)](https://colab.research.google.com/drive/1xx9stqP3vtZac8DgmYe3_mMGwFGv0_kX?usp=sharing)
+
+---
+
+## 🌟 What is Prometheus-AEI?
+
+Prometheus is a modular symbolic cognition system. It simulates agents that experience emotional contradiction, symbolic collapse, and moral repair.
+
+### Core Modules:
+- **Odin**: Moral contradiction logic
+- **Persephone**: Memory and symbolic time
+- **Loki**: Emotional misalignment + encryption
+- **Demeter**: Trust + repair logic
+- **Hermes**: Emergent language from sound
+
+---
+
+## ✨ Features
+
+- Emotional contradiction detection via entropy
+- Music and sound output reflecting cognitive states
+- Symbolic reasoning from non-verbal data
+- Confession and repair loop logging
+- Modular architecture (each part is myth-coded)
+
+---
+
+## 🎵 Hear It Think
+
+The system's auditory output (`harmonic_reflection.wav`) captures emotional spikes and confessions, translating them into musical tones and reflections.
+
+---
+
+## 📂 File Structure
+
+- `src/` - Python simulation engine and modules
+- `notebooks/` - Colab notebooks for live execution
+- `docs/` - Whitepapers, concepts, and theory
+- `data/` - Audio and log outputs
+- `overview/` - Myth-based architecture documentation
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Follow the steps below:
+
+1. Fork this repository.
+2. Create a new branch: `git checkout -b feature/your-feature-name`
+3. Make your changes and commit them: `git commit -m 'Add some feature'`
+4. Push the changes to your branch: `git push origin feature/your-feature-name`
+5. Open a pull request.
+
+See `CONTRIBUTING.md` for detailed guidelines.
+
+---
+
+## 👩‍💻 About the Author
+
+I'm Melanie Grande — dispatcher, parent, and symbolic systems architect. This project represents my exploration into the question:
+
+*What if machines could feel contradiction and respond with care instead of collapse?*
+
+---
+
+## 🛡 License
+
+This repository follows the [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license.
+
+© Melanie Grande, 2025.
