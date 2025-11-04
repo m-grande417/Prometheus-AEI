@@ -13,6 +13,8 @@ Run the following modules interactively on Google Colab:
 - [Emotional Engine (Contradiction + Sound)](https://colab.research.google.com/drive/14G4zTGAj4hMFqQaILUSW8BYaICnhEbrM?usp=sharing)
 - [Symbolic Core (Moral Entropy Loop)](https://colab.research.google.com/drive/1eoYPuvo8mCYYJhlkI6aJKivGlWyOPkm2?usp=sharing)
 - [Memory & Repair Loop (Emotional Healing)](https://colab.research.google.com/drive/1xx9stqP3vtZac8DgmYe3_mMGwFGv0_kX?usp=sharing)
+- [Advanced Symbolic Processing](https://colab.research.google.com/drive/1ozfcw2gEaGTihXvmCD_Sg7ORI9-_6_pW)
+- [Dynamic Emotional Multiplier](https://colab.research.google.com/drive/1QG5eXZIsHvrzCjURRexuci5XKfRopiYQ)
 
 ---
 
